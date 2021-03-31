@@ -11,18 +11,20 @@
    
    *Project Demo Video*:-https://www.youtube.com/watch?v=THhg08wC5mY \
    
-   ##Prerequisites:-\
+   ## Prerequisites:-
    
    1.Android Studio\
    2.Android supporting google speech API\
    3.Download all packages from SPEECH-TO-SIGN-LANGUAGE-TRANSLATOR-FOR-E-LEARNING--DSC-CHALLENGE-2021/app \
-   4. For android requirements:- \
+   4. For android requirements:- (Does not work on iOS) \
       1.Processor: \
          -Minimum 1 GHz; Recommended 2 GHz or more \
       2.Ethernet connect strongly action (LAN) OR a wireless adapter (Wi-Fi) \
-      3.In-built microphone accessibility. \
+      3.In-built microphone accessibility. 
       
-  ##Installation Guide:-
+  ## Installation Guide:-
+  1.
+  2
   
    
       
