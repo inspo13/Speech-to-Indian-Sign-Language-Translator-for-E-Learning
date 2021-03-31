@@ -1,7 +1,7 @@
 # SPEECH-TO-SIGN-LANGUAGE-TRANSLATOR-FOR-E-LEARNING--DSC-CHALLENGE-2021
 ## A android  application which takes in live audio speech recording as input from other e-learning  platform , converts it into text and displays the relevant Indian  Sign Language animations.
 
-### The ability to communicate for deaf community has still not been ideal although there have been huge advancements in that field . Due to the onset of pandemic, the new tools for teaching have become popular. The online platforms like Microsoft Teams ,Zoom have been given the title of”online classroom” where the study lectures can take place from the comfort of a home. Although,through ages these platforms were not designed to suit the deaf community.As the whole education has shifted on platforms like these, it has been difficult for the deaf to be able to attend these. 
+### The ability to communicate for deaf community has still not been ideal although there have been huge advancements in that field . Due to the onset of pandemic, the new tools for teaching have become popular. The online platforms like Microsoft Teams ,Zoom have been given the title of”online classroom” where the study lectures can take place from the comfort of a home. Although,through ages these platforms were not designed to suit the deaf community.As the whole education has shifted on platforms like these, it has been difficult for the deaf to be able to attend these. An ongoing  research is done by us , where it can be seen that deaf community has to go through different platforms to read and study .So,from there we got the motivation for our proposed system.
 
    
  
