@@ -5,8 +5,8 @@
 
    
  
-   *Front-end using xml from android studio \
-   *Back-end using java from android studio \
+   *Front-end using xml in android studio \
+   *Back-end using java in android studio \
    *Speech recognition using voice input and Google Speech API \
    *Text preprocessing using Natural Language Toolkit (NLTK) \
    *Text to Indian Sign Language through LSTM model \
