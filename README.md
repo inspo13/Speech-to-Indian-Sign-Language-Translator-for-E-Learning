@@ -23,9 +23,13 @@
       3.In-built microphone accessibility. 
       
   ## Installation Guide:-
-  1. Open 
-  2
-  
+  1. Open app-debug.apk from the main repository.
+  2. Download it.
+  3. Sign up and start exploring.
+  4. Allow the app to access the microphone
+  5. Apply split-screen by following the rules mentioned in the application.
+  6.Click on mic button to allow the recording.
+  7.Speech is going to processed and respective animated outputs are shown accordingly and it also support entered text manually.  
    
       
       
