@@ -33,6 +33,7 @@
   5. Apply split-screen by following the rules mentioned in the application. \
   6.Click on mic button to allow the recording. \
   7.Speech is going to processed and respective animated outputs are shown accordingly and it also support entered text manually.  
+  8.In the repository, there is a folder named translation where there is the main file of the model named lstm.py which requires a txt file named glove.6B.100d.txt which is required to create word embeddings for the inputs and load the GloVe word vectors into memory.The data for it has not been possible to upload so here is the link of the site from where we downloaded the data is https://www.kaggle.com/danielwillgeorge/glove6b100dtxt
 
   ## The app framework:- 
  1 App starts with a splash screen of 3 secs \
