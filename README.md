@@ -23,7 +23,7 @@
       3.In-built microphone accessibility. 
       
   ## Installation Guide:-
-  1.
+  1. Open 
   2
   
    
