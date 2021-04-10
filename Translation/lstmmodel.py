@@ -29,7 +29,7 @@ output_sentences = []
 output_sentences_inputs = []
 
 count = 0
-for line in open(r'/content/nume.docx',encoding='latin-1'):
+for line in open(r'/content/numerical.txt',encoding='latin-1'):
     count += 1
 
     if count > NUM_SENTENCES:
