@@ -5,7 +5,8 @@
     android:id="@+id/constraintLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@android:color/holo_blue_dark"
+    android:background="#CF4A72"
+
     >
 
     <TextView
@@ -23,12 +24,15 @@
 
     <TextView
         android:id="@+id/split_screen"
-        android:layout_width="323dp"
+        android:layout_width="340dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="32dp"
+        android:layout_marginTop="16dp"
+        android:background="#FF759F"
+
+        android:fontFamily="@font/architects_daughter"
         android:text="@string/how_to_use_split_screen_mode_on_an_android_device"
-        android:textColor="@color/design_default_color_on_secondary"
-        android:textSize="23sp"
+        android:textColor="@color/white"
+        android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.42"
         app:layout_constraintStart_toStartOf="parent"
@@ -36,11 +40,13 @@
 
     <TextView
         android:id="@+id/step1"
-        android:layout_width="323dp"
+        android:layout_width="340dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="12dp"
+        android:background="#54E864"
+        android:fontFamily="@font/architects_daughter"
         android:text="@string/step1"
-        android:textColor="@android:color/background_dark"
+        android:textColor="@color/white"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.42"
         app:layout_constraintStart_toStartOf="parent"
@@ -48,11 +54,13 @@
 
     <TextView
         android:id="@+id/step2"
-        android:layout_width="323dp"
+        android:layout_width="340dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="76dp"
+        android:layout_marginTop="84dp"
+        android:background="#54E864"
+        android:fontFamily="@font/architects_daughter"
         android:text="@string/step3"
-        android:textColor="@color/design_default_color_on_secondary"
+        android:textColor="@color/white"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.42"
         app:layout_constraintStart_toStartOf="parent"
@@ -60,54 +68,60 @@
 
     <TextView
         android:id="@+id/step4"
-        android:layout_width="323dp"
+        android:layout_width="340dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
+        android:background="#54E864"
+        android:fontFamily="@font/architects_daughter"
         android:text="@string/step4"
-        android:textColor="@color/design_default_color_on_secondary"
+        android:textColor="@color/white"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.42"
+        app:layout_constraintHorizontal_bias="0.422"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/step2" />
 
     <TextView
         android:id="@+id/step5"
-        android:layout_width="323dp"
+        android:layout_width="340dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
+        android:background="#54E864"
+        android:fontFamily="@font/architects_daughter"
         android:text="@string/step55"
-        android:textColor="@color/design_default_color_on_secondary"
+        android:textColor="@color/white"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.42"
+        app:layout_constraintHorizontal_bias="0.422"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/step4" />
 
     <TextView
         android:id="@+id/step6"
-        android:layout_width="323dp"
+        android:layout_width="340dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
+        android:background="#54E864"
+        android:fontFamily="@font/architects_daughter"
         android:text="@string/step6"
-        android:textColor="@color/design_default_color_on_secondary"
+        android:textColor="@color/white"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.42"
+        app:layout_constraintHorizontal_bias="0.422"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/step5"
 
-        />
+        app:layout_constraintTop_toBottomOf="@+id/step5" />
 
     <ImageButton
         android:id="@+id/imageButtongotonavbar"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="50dp"
+        android:layout_height="40dp"
+        android:background="#54E864"
+        android:contentDescription="@string/string_button"
         android:src="@android:drawable/ic_menu_sort_alphabetically"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/step6"
-        app:layout_constraintVertical_bias="0.261"
-        android:contentDescription="@string/string_button" />
+        app:layout_constraintVertical_bias="0.114" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

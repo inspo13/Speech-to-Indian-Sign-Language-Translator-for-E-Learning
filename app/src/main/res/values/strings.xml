@@ -36,4 +36,23 @@
     <string name="step6">6. When you\'re ready to close one of the apps and end the split screen, tap and hold on the black bar in the center of the screen, then swipe in the direction of the app you want to close. The screen will appear blue momentarily and the app will close.</string>
     <string name="button">button</string>
     <string name="string_button">buttontonavbar</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="signoutbutton">SIGN OUT</string>
+    <string name="logoutbutton">LOGOUT</string>
+    <string name="server_client_id">853535085382-tetlquc566bnde2b67iprnm5f05iiobl.apps.googleusercontent.com</string>
 </resources>

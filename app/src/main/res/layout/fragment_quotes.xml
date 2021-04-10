@@ -5,19 +5,22 @@
     android:id="@+id/constraintLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@android:color/holo_blue_dark"
+    android:background="#CF4A72"
     tools:context=".QuotesFragment">
 
     <!-- TODO: Update blank fragment layout -->
 
     <TextView
         android:id="@+id/quote"
-        android:layout_width="286dp"
-        android:layout_height="59dp"
-        android:layout_marginBottom="220dp"
+        android:layout_width="260dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginBottom="152dp"
+        android:fontFamily="@font/architects_daughter"
         android:text="Without your involvement you can’t succeed. With your involvement you can’t fail.
-                                      -BY APJ Abdul Kalam"
-        android:textColor="@color/design_default_color_on_secondary"
+                                      -By APJ Abdul Kalam"
+        android:textColor="@color/white"
+        android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.528"
