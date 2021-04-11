@@ -12,8 +12,7 @@
    *Text to Indian Sign Language through LSTM model \
    *Animation through blender 3D tool 
    
-   *Project Demo Video*:-https://www.youtube.com/watch?v=THhg08wC5mY 
-   
+   *Project Demo Video*:-https://youtu.be/x_Pp3lHiHW4   
    ## Prerequisites:-
    
    1.Android Studio\
