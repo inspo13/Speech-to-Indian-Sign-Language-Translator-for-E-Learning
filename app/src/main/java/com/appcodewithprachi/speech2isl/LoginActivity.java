@@ -1,4 +1,4 @@
-package com.appcodewithprachi.speech2isl;
+package com.appcode.speech2isl;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
