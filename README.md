@@ -43,7 +43,7 @@
  6. Translation Activity(tab3)- it has an image button by clicking on, it starts taking audio and convert it to text (using google api)then text is transferred to deep learning model to       generate hand gestures for the audio. \
 7. Next Navigation bar activity starts with home page still need to make this if time allows we are thinking of adding create online meet feature in this. \
 8. Next fragment is books here pdfs and links of books will be provided.   \ 
-9.  Next is make notes fragment to create study notes.  \  
+9.  Next is make notes fragment to create study notes.    
       
       
    
